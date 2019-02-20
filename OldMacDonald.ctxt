@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=OldMacDonald
+comment0.text=\r\n\ Just\ runs\ the\ code\ that\ tells\ the\ animal's\ sound,\ type,\ and\ any\ extra\ things\ \r\n\ specifically\ defined\ in\ each\ class\r\n\r\n\ @author\ (Aarohi\ Zade)\r\n\ @version\ (2/14/19)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

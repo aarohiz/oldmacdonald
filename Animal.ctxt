@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Animal
+comment0.text=\r\n\ Defines\ what\ it\ means\ to\ be\ an\ Animal\ in\ the\ farm.\ Says\ that\r\n\ you\ must\ have\ a\ sound\ and\ type.\r\n\r\n\ @author\ (Aarohi\ Zade)\r\n\ @version\ (2/14/19)\r\n
+comment1.params=
+comment1.target=java.lang.String\ getSound()
+comment2.params=
+comment2.target=java.lang.String\ getType()
+numComments=3
